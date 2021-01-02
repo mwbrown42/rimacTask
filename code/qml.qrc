@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>rimac.png</file>
+        <file>Concept_One_rolling-4-1600x1000.jpg</file>
+        <file>Rimac-Track_4-1600x1067.jpg</file>
+        <file>Rimac_Automobili_horizontal-1.png</file>
+        <file>editedVideoThumbnailWindow.qml</file>
+        <file>rawVideoThumbnailWindow.qml</file>
+        <file>ObsoleteEditOverlayVideoWindow.qml</file>
+        <file>editorOverlaySettingsDialog.qml</file>
+        <file>editedFolderChoiceDialog.qml</file>
+        <file>rawFolderChoiceDialog.qml</file>
+    </qresource>
+</RCC>
